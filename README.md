@@ -1,9 +1,10 @@
+# Hey! 👋
 ## About Me
 
 My name is Jack, I am a teen from the United States. I like to play videogames, and code in my spare time. <br>
 I host **All** of my code on GitHub. So if you want to see what I do, you can take a look around.
 
-## Tools & Languages
+## 🔨 Tools & 🌐 Languages
 
 ### Currently Using
 * [Visual Studio Code](https://code.visualstudio.com/)
