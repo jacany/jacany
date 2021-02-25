@@ -16,12 +16,12 @@ I host **All** of my code on GitHub. So if you want to see what I do, you can ta
 * [Node JS](https://nodejs.org)
 * [Electron](https://www.electronjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
+* [C#](http://csharp.net/)
 * [Yarn](https://yarnpkg.org)
 * [NPM](https://npmjs.org)
 
 ### Interested in learning
 * [Rust](https://www.rust-lang.org/)
-* [C#](http://csharp.net/)
 * [C](https://www.iso.org/standard/74528.html)
 * [Svelte](https://svelte.dev/)
 * [TypeScript](https://www.typescriptlang.org/)
