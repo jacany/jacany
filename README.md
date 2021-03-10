@@ -15,11 +15,14 @@ I host **All** of my code on GitHub. So if you want to see what I do, you can ta
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [Node JS](https://nodejs.org)
 * [TypeScript](https://www.typescriptlang.org/)
+* [PHP](https://php.net)
 * [Electron](https://www.electronjs.org/)
 * [Bootstrap](https://getbootstrap.com/)
 * [C#](http://csharp.net/)
 * [Yarn](https://yarnpkg.org)
 * [NPM](https://npmjs.org)
+* [AWS](https://aws.amazon.com)
+* [Azure](https://azure.microsoft.com)
 
 ### Interested in learning
 * [Rust](https://www.rust-lang.org/)
