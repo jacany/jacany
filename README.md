@@ -1,4 +1,3 @@
-# Hey! 👋
 ## About Me
 
 My name is Jack, I am a teen from the United States. I like to play videogames, and code in my spare time. <br>
