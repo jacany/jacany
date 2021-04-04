@@ -3,10 +3,7 @@
 My name is Jack, I am a teen from the United States. I like to play videogames, and code in my spare time. <br>
 I host **All** of my code on GitHub. So if you want to see what I do, you can take a look around.
 
-## Socials
-[<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Keybase_logo_official.svg" width="69" />](https://keybase.io/jacany) | [<img src="https://cdn.svgporn.com/logos/steam.svg" width="69" />](https://steamcommunity.com/id/circlesquaretriangle) | [<img src="https://cdn.svgporn.com/logos/brave.svg" width="69" />](https://chaker.xyz)
-------------- | ------------- | -------------
-
+## [Socials](https://chaker.xyz)
 
 ## 🔨 Tools & 🌐 Languages
 
